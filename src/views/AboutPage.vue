@@ -40,7 +40,7 @@ export default {
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  background-color: #f0f0f0;
+  background-color: #e6e6fa;
   padding: 20px;
 }
 
